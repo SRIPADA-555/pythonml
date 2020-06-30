@@ -4,9 +4,7 @@ Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
 Done by: SRIPADA RAO AGALI K 4NM17IS106
-Customer Churn Analysis using Machine learning models
 
-The main objective of the customer churn analysis is to predict that if the customer will continue with the services offered by the company or if the customer will quit.
 
 
 The steps involved in the project are:
